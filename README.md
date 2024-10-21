@@ -1,6 +1,4 @@
-CSS343 Movie Project
-
-Contributors: Jasleen Kaur Saini, Zaina Shaikh, Maryam Maabreh, Vinisha Bala
+#CSS343 Movie Project
 
 Overview
     This project involves designing and implementing a program for a movie rental store to track inventory and customer transactions. The program handles three types of movies (Comedy, Drama, Classics) and four types of actions (Borrow, Return, Inventory, History).
