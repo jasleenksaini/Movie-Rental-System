@@ -1,9 +1,9 @@
-#CSS343 Movie Project
+# CSS343 Movie Project
 
-Overview
+## Overview
     This project involves designing and implementing a program for a movie rental store to track inventory and customer transactions. The program handles three types of movies (Comedy, Drama, Classics) and four types of actions (Borrow, Return, Inventory, History).
 
-Components and Files
+## Components and Files
     main.cpp: Main program file.
     movie.h, movie.cpp: Parent Movie class and related functionality.
     ClassicMovie.h, ClassicMovie.cpp: ClassicMovie subclass.
@@ -14,7 +14,7 @@ Components and Files
     MovieType.h, MovieType.cpp: Parent Movie transaction handling class.
     DVD.h, DVD.cpp: DVD MovieType subclass. 
 
-Output
+## Output
     Inventory: Lists all movies in stock, sorted by genre and specific criteria.
     History: Displays customer transaction history, sorted chronologically.
     Error Handling: Properly notifies users of invalid commands, data, or IDs.
